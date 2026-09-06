@@ -59,6 +59,8 @@ This dashboard helps decision-makers to:
 * Evaluate long-term policy maturity trends.
 * Measure business growth through ROI and CAGR.
 * Explore insurance data interactively using multiple business dimensions.
+  
+A full set of annotated screenshots is also available as a PDF: [`KPI visuals_1.pdf`](KPI%20visuals_1.pdf)
 
  
  **Disclaimer:** This is a portfolio project created for learning and demonstration purposes. The dashboard is based on a sample insurance dataset and showcases my ability to design interactive Power BI dashboards, develop DAX measures, and communicate business insights through data visualization.
